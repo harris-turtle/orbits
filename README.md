@@ -5,7 +5,7 @@ A basic approximation made in many basic orbital models is assuming the body bei
 
 <a href="https://i.imgur.com/8NwyCOw.gif"><img src="https://i.imgur.com/8NwyCOw.gif" title="Basic"/></a>
 
-In systems like this there is a specific tangential velocity for the orbiting body depending on its distance from the center body that provides it a circular orbit. The more the velocity varys from that above or below causes the orbit to become a more eccentric ellipse with the center body as one foci. A special case exists when the velocity increases to escape velocity or greater creating a hyperbolic trajectory. 
+In systems like this there is a specific tangential velocity for the orbiting body depending on its distance from the center body that provides it a circular orbit. The more the velocity varies from that above or below causes the orbit to become a more eccentric ellipse with the center body as one foci. A special case exists when the velocity increases to escape velocity or greater creating a hyperbolic trajectory. 
 ## Accounting for the force on both bodies
 If we take into account the force on both bodies since the acceleration of the big body is no longer negligible, we realize that they both orbit their shared center of mass as seen below. The center of mass is represented with the red sphere.
 
