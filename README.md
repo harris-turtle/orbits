@@ -1,6 +1,6 @@
 # orbits
 Visualization of different orbital systems
-## Basic star sun system
+## Basic star-planet system
 A basic approximation made in many basic orbital models is assuming the body being oribted, usually a star is many order of magnitude greater than the orbiting body. This leads to simpler calculations as since the center body is too massive to be accelerated a noticable amount and assumed stationary. Below is a visualization of this scenario.
 
 <a href="https://i.imgur.com/8NwyCOw.gif"><img src="https://i.imgur.com/8NwyCOw.gif" title="Basic"/></a>
@@ -20,7 +20,7 @@ Just thought it would look cool seeing to stars orbit around each other. In this
 ## Three body problem
 In the previous examples there was only two bodies, when we try to analyze more than something stranges happens. The two-body systems all have analytic solutions that can be derived. That means there is are equations where you can put in the initial conditions and time to recive a solution to where the bodies will be. At three bodies or more these analytic solutions are very rare and only work for a few very specific situations. That means most systems like our solar system, and even just the Sun, Earth, Moon system require computational methods to solve. These kinds of systems tend to also be chaotic meaning small changes to initial conditions leads to a completly different outcome much later in time. Since we can only measure so much percision even our own model for the solar system will diverge heavily from reallity in large time scales. Thankfully in human scales it appears to be stable. 
 
-## Sun, Earth, Moon System
+## Sun, Earth, Moon system
 Just for fun here is a simple approximation of the Sun, Earth, Moon system.
 
 <a href="https://i.imgur.com/682SqbT.gif"><img src="https://i.imgur.com/682SqbT.gif" title="Sun, Earth, Moon"/></a>
