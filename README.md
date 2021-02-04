@@ -1,7 +1,7 @@
 # orbits
 Visualization of different orbital systems
 ## Basic star-planet system
-A basic approximation made in many basic orbital models is assuming the body being oribted, usually a star is many order of magnitudes more massive than the orbiting body. This leads to simpler calculations as since the center body is too massive to be accelerated a noticable amount and assumed stationary. Below is a visualization of this scenario.
+A basic approximation made in many basic orbital models is assuming the body being oribted, usually a star is many order of magnitudes more massive than the orbiting body. This leads to simpler calculations since the center body is too massive to be accelerated a noticable amount and assumed stationary. Below is a visualization of this scenario.
 
 <a href="https://i.imgur.com/8NwyCOw.gif"><img src="https://i.imgur.com/8NwyCOw.gif" title="Basic"/></a>
 
